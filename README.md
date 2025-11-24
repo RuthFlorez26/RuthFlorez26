@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-:computer: **Ingeniero de Software en Microsoft**
-:pencil: **Generador de contenido**
-:eyeglasses: **Geek empedernido**
-:oncoming_automobile: **Fan de los auto, carreras y simuladores**
-:family: **¡El papá más feliz del mundo!**
+👩‍🎓 **Ingeniera Metalúrgica**
+:pencil: **Desarrolladora Web**
 
 ### Vias de contacto
 
